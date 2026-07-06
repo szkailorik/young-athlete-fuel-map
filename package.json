@@ -1,0 +1,10 @@
+{
+  "name": "young-athlete-fuel-map",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bilingual nutrition guide for two 8-9 year old boys who study, train, and play golf.",
+  "scripts": {
+    "start": "npx serve@latest .",
+    "check": "node scripts/check-site.mjs"
+  }
+}
